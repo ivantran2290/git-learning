@@ -11,3 +11,4 @@ Add line for test merge from issue2 and me
 
 Add completetily new line from issue2 branch
 Add new line after fix conflict
+Add new line from new branch
