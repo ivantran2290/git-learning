@@ -6,6 +6,7 @@ Add line for test commit
 Add line for test merge from issue1
 Add line for test merge from issue2 change here
 Add line for test merge from issue3
+Add line for test rebase from issu6
 
 Add line for test merge from issue2 and me
 
